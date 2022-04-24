@@ -1,0 +1,24 @@
+.jumbotron {
+    background-color: rgb(230, 238, 238);
+    padding-top: 5rem;
+}
+
+body {
+    font-family: "Times New Roman", Times, serif;
+}
+
+#projects {
+    background-color: rgb(230, 238, 238);
+}
+
+p {
+    padding-top: 1rem;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+h1 {
+    margin-bottom: -1rem;
+}
